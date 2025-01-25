@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.10.0"
+  },
+  "name": "atividaderocketseat",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "undici-types": "^6.20.0"
+  },
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
